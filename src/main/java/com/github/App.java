@@ -10,7 +10,8 @@ public class App
     public static void main( String[] args )
     {
     	//Comment
-        System.out.println( "World!" );
+        System.out.println( "Hello World modifed!" );
+        System.out.println( "Hi World modifed!" );
     }
 }
 
